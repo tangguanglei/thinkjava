@@ -1,2 +1,2 @@
 # thinkjava
-think in java
+leanning think in java
