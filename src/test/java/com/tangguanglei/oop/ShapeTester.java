@@ -16,8 +16,8 @@ public class ShapeTester {
         Shape triangle = new Triangle("shape2");
         System.out.println(triangle.getName());
         System.out.println(triangle.draw());
-        Shape squire = new Squire("shape3");
-        System.out.println(squire.getName());
-        System.out.println(squire.draw());
+        Shape square = new Square("shape3");
+        System.out.println(square.getName());
+        System.out.println(square.draw());
     }
 }

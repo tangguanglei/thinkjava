@@ -1,8 +1,8 @@
 package com.tangguanglei.oop;
 
-public class Squire extends Shape{
+public class Square extends Shape{
 
-    public Squire(String name) {
+    public Square(String name) {
         super(name);
     }
 
